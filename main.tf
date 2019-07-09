@@ -21,3 +21,4 @@ resource "azurerm_resource_group" "test2" {
   tags = {
     environment = "Production"
   }
+}
